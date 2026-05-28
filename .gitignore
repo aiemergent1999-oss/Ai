@@ -1,0 +1,9 @@
+# Expo SDK 49 Setup
+node_modules/
+.expo/
+.expo-shared/
+dist/
+npm-debug.*
+*.log
+.env.local
+.DS_Store
